@@ -1,0 +1,11 @@
+1. Game where users assemble a team of star wars characters(from SWAPI) to embark on a spice run with Han Solo and Chewy. They will come across certain tasks where they need to answer questions corectly to be able to move one step closer to the final destination. Users will have 3 lives, once they lose those 3 lives, the game will be over, but if they make it to the end they will win a virtual prize. (I will use information from the star wars API to create questions. Also will have a feature that will randomly generate your "Star Wars" name)
+
+2. A map to locate your favorite foods and to see if people are talking about those places currently. Kind of like a "hype" tracker for food places. Would use Google reviews to track what places are being talked about currently.
+
+3. An interactive site where users can put in their favorite colors/brands/etc and the site will pick out certain clothing items that would fit the look the user is looking for. Would send links to certain shops/stores/online shops so that they can check out pricing and see if they would want to purchase that fit.
+
+4. Some sort of Pokemon/Emergency app where certain 911 calls will be given a pokemon to represent it. Still in the works. Probably wont do this one lol.
+
+5. An app where users can track their spending habits. They can insert in all of their spending for a month and it will calculate where it thinks they could cut back and where it thinks they could spend more money.
+
+
